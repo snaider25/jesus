@@ -1,10 +1,10 @@
 Q: Why isn't touch input working on sudokuhax?    
 A: Depending on the save file of sudokuhax, the touch screen inputs may not work.
 
-Q: Why isn't touch input working when I use the "Quick-start ROM" option?    
+Q: Why isn't touch input working when I use the `Quick-start ROM` option?    
 A: You're either using an outdated version of nds-bootstrap, or you tried to launch a game in DSiMenu++, after using the "Start last-ran ROM" option on 3DS.    
 Go into settings, then exit settings by pressing B. This issue will be fixed in the next DSiMenu++ version.    
-If touch is still broken, delete "nds-bootstrap.ini" and uninstall TWLoader.    
+If touch is still broken, delete `nds-bootstrap.ini` and uninstall TWLoader.    
 After deleting the .ini file, go into DSiMenu++ settings, then exit settings by pressing B.    
 
 Q: Can The Biggest Loser boot DSiMenu++?    
