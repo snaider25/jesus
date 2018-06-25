@@ -1,7 +1,3 @@
-Q: Why am I getting thrown back to the DSi/3DS HOME Menu after launching a game?    
-A: That sometimes happens for some weird reason. Try turning on "Quick-start ROM" in the settings, by pressing START in the ROM menu, go to "Settings" then set "Quick-start ROM" on.    
-If you're on DSi however, headphone support is broken, as sound will still come out of the speakers, even with headphones plugged in.
-
 Q: Why isn't touch input working on sudokuhax?    
 A: Depending on the save file of sudokuhax, the touch screen inputs may not work.
 
