@@ -1,2 +1,2 @@
-Welcome to the DSiMenuPlusPlus wiki!
+Welcome to the TWiLight Menu++ wiki!
 
