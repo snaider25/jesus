@@ -1,4 +1,4 @@
-NOTE: Starting with v6.8.0, DS game saves will have to be moved to a folder called `saves`. The folder should be made in the same folder as the DS ROMs.
+NOTE: Starting with v6.8.3, DS game saves will have to be moved to a folder called `saves`. The folder should be made in the same folder as the DS ROMs.
 
 **Update instructions**
 1. Download the latest version [here](https://github.com/RocketRobz/TWiLightMenu/releases).
