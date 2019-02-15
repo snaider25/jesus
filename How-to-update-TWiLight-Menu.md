@@ -7,7 +7,7 @@
 
 ## 3DS CFW Update instructions
 1. Download the latest version [here](https://github.com/RocketRobz/TWiLightMenu/releases).
-2. Copy `_nds/`, `3DS - CFW users/cia/`, and `DSi&3DS - SD card users/_nds/` to the root of your SD.
+2. Copy `_nds/`, `3DS - CFW users`, and `DSi&3DS - SD card users/_nds/` to the root of your SD.
 4. Delete TWiLight Menu++ from DSiWare Data Management in System Settings.
 5. Install the two CIAs in the `cia` folder.
 
