@@ -3,6 +3,7 @@
 1. Install the updater [here](https://github.com/RocketRobz/TWiLightMenu-Updater/releases).
 2. Launch the updater.
 3. Touch `Release` next to `TWL Menu++`. Extraction may take a while.
+4. Do Step 3 again, but for `nds-bootstrap.`
 ## Installing (Manual method)
 1. Delete the `_nds` folder from the root of your SD card, if it exists
 2. Download the latest version of TWiLight Menu++ from [the releases page](https://github.com/RocketRobz/TWiLightMenu/releases)
