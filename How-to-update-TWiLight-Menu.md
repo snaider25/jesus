@@ -10,6 +10,7 @@
 1. Install the updater [here](https://github.com/RocketRobz/TWiLightMenu-Updater/releases), if it's not already installed yet.
 2. Launch the updater.
 3. Touch `Release` next to `TWL Menu++`. Extraction may take a while.
+4. Do Step 3 again, but for `nds-bootstrap.`
 
 ## 3DS CFW Update instructions (Manual method)
 1. Download the latest version [here](https://github.com/RocketRobz/TWiLightMenu/releases).
