@@ -20,6 +20,6 @@ Please move them to that folder before updating.
 4. Delete TWiLight Menu++ from DSiWare Data Management in System Settings.
 5. Install the two CIAs.
 
-## DSiWarehax Update instructions
+## DSiWarehax/Unlaunch Update instructions
 1. Download the latest version [here](https://github.com/RocketRobz/TWiLightMenu/releases).
 2. Copy `_nds/`, `DSi&3DS - SD card users/_nds/`, and `DSi&3DS - SD card users/boot.nds` to the root of your SD.
