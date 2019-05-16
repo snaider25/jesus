@@ -3,9 +3,8 @@
 1. In the 7z file, extract the `_nds` folder from both the 7z root and the `DSi&3DS - SD card users` folder, to the SD Card root. Merge folders, when asked to.
 2. Extract the `boot.nds` file from the `DSi&3DS - SD card users` folder, to the SD Card root.
 3. Extract what's in `DSi - CFW users/SDNAND root` to the root of your SD card.
-4. Put .gb/.gbc/.gen/.gg/.nes/.nds/.sms/.smc/.sfc ROMs anywhere on your SD card.
-5. (Unlaunch users) In Unlaunch menu, go to options, and set the `No button` option to `TWLMENUPP`.
-6. Launch TWiLight Menu++!
+4. (Unlaunch users) In Unlaunch menu, go to options, and set the `No button` option to `TWLMENUPP`.
+5. Launch TWiLight Menu++!
 ## Installing (3DS, via Updater)
 1. Install the updater [here](https://github.com/RocketRobz/TWiLightMenu-Updater/releases).
 2. Launch the updater.
