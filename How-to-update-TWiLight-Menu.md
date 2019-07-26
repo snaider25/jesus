@@ -18,6 +18,7 @@ Please move them to that folder before updating.
 2. Copy `_nds/` and `DSi&3DS - SD card users/_nds/` to the root of your SD, overwriting the `_nds` folder there.
 3. Copy what's in `3DS - CFW users` to the root of your SD.
 4. Delete TWiLight Menu++ from DSiWare Data Management in System Settings.
+- If your console is an iQue, delete TWiLight Menu++ from Title list using FBI.
 5. Install the two CIAs.
 
 ## DSiWarehax/Unlaunch Update instructions
