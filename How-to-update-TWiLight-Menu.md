@@ -5,7 +5,7 @@ Please move them to that folder before updating.
 1. Download the latest version [here](https://github.com/RocketRobz/TWiLightMenu/releases).
 2. In the .7z file, copy `_nds/`, the folders in `DSi - CFW users/SDNAND root/`, and `DSi&3DS - SD card users/_nds/` to the root of your SD, as well as `DSi&3DS - SD card users/boot.nds`.
    - When copying from `DSi - CFW users/SDNAND root/` if you're asked to merge/replace, click `Yes`. Be careful if you're on macOS, as it'll delete the folders, instead of merging them.
-3. In the original DSi Menu, if you see another TWiLight Menu++ icon or a DSiMenu++ or SRLoader icon, delete `53524c41` at `sd:/title/00030015`.
+3. In the original DSi Menu, if you see another TWiLight Menu++ icon or a DSiMenu++ or SRLoader icon, delete `53524C41` (and `534C5254`, if exists) at `sd:/title/00030015`.
 
 ## 3DS CFW Update instructions (via Updater)
 1. Install the updater [here](https://github.com/RocketRobz/TWiLightMenu-Updater/releases), if it's not already installed yet.
