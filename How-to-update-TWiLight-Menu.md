@@ -7,7 +7,7 @@ Please move them to that folder before updating.
    - When copying from `DSi - CFW users/SDNAND root/` if you're asked to merge/replace, click `Yes`. Be careful if you're on macOS, as it'll delete the folders, instead of merging them.
 3. In the original DSi Menu, if you see another TWiLight Menu++ icon or a DSiMenu++ or SRLoader icon, delete `53524C41` (and `534C5254`, if exists) at `sd:/title/00030015`.
 
-## 3DS CFW Update instructions (via Updater)
+## 3DS CFW Update instructions (via Updater) (Does not work)
 1. Install the updater [here](https://github.com/RocketRobz/TWiLightMenu-Updater/releases), if it's not already installed yet.
 2. Launch the updater.
 3. Touch `Release` next to `TWL Menu++`. Extraction may take a while.
