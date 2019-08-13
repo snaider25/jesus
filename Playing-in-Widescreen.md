@@ -1,13 +1,13 @@
 Requires an Old/New Nintendo 3DS or 2DS console, and a 64-bit Windows PC.
 
-Preparation
+**Preparation**
 
 1. If you're not on the latest TWiLight Menu++ version, please install it using the manual method.    
 If your first version was v9.0.0 or later, you can skip this step.
 1. Make sure Luma's "boot.firm" is on the SD root as well.
 
 
-Part 1: GodMode9
+**Part 1: GodMode9**
 
 1. Go to `SYSNAND CTRNAND`.
 1. Select `title`.
@@ -23,7 +23,7 @@ Part 1: GodMode9
 1. Power off the console.
 
 
-Part 2: Making the widescreen TwlBg, and using it
+**Part 2: Making the widescreen TwlBg, and using it**
 
 1. Download TWL Patcher from [this](https://gbatemp.net/threads/sharp-ds-i-mode-scaling-filters.542694/page-25#post-8752015) post.
 1. Copy `exefs.bin` file in `sd:/gm9/out/`, to the same folder as `mkpatch_b.exe`.
