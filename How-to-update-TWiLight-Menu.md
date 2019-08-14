@@ -1,4 +1,4 @@
-*NOTE:* Starting with v6.8.3, DS game saves are stored in a `saves` folder in exact same folder as the DS ROMs.
+*NOTE:* Starting with v6.8.3, DS game saves are stored in a `saves` folder in the exact same location as the DS (`.nds`) ROMs.
 Please move them to that folder before updating.
 
 ## DSi CFW Update instructions
