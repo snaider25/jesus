@@ -6,7 +6,7 @@
 3. Extract what's in `DSi - CFW users/SDNAND root` to the root of your SD card.
 4. (Unlaunch users without HiyaCFW) In Unlaunch menu, go to options, and set the `No button` option to `TWLMENUPP`.
 
-## Installing (3DS, via Updater) (Does not work)
+## Installing (3DS, via Updater)
 1. Install the updater [here](https://github.com/RocketRobz/TWiLightMenu-Updater/releases).
 2. Launch the updater.
 3. Touch `Release` next to `TWL Menu++`. Extraction may take a while.
